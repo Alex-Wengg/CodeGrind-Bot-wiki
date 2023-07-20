@@ -5,7 +5,7 @@ Here are the steps to create a testing version of the bot:
 
 2. Create a MongoDB database (https://www.mongodb.com/)
 
-3. Create a .env file within the root of the project and add these environment variables. Insert your Discord Bot Token (client secret) and MongoDB URI (connection string)
+3. Create a .env file within the root of the project and add these environment variables. Insert your Discord Bot Token (client secret) and MongoDB URI (connection string) into the specified environment variables
 > `TOKEN=<your_discord_bot_token>`  
 > `MONGODB_URI=<your_mongodb_uri>`  
 > `PRODUCTION=False`  
