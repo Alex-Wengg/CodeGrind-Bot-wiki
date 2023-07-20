@@ -3,7 +3,7 @@ Here are the steps to create a testing version of the bot:
 
 1. Create a discord application (https://discord.com/developers/applications)
 
-2. Add bot by adding your application's client id to this link https://discord.com/oauth2/authorize?client_id=<your_bot_client_id>&scope=bot&permissions=8 , then press on the link to add it to your selected server.
+2. Add bot by adding your application's client id to this link https://discord.com/oauth2/authorize?client_id=your_bot_client_id&scope=bot&permissions=8 , then press on the link to add it to your selected server.
 
 3. Create a MongoDB database (https://www.mongodb.com/)
 
