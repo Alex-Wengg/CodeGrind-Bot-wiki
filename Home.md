@@ -3,6 +3,7 @@ Welcome to the CodeGrind Bot wiki!
 ## Pages
 
 - [Commands](https://github.com/CodeGrind-Team/CodeGrind-Bot/wiki/Commands)
+- [Developer Setup](https://github.com/CodeGrind-Team/CodeGrind-Bot/wiki/Developer-Setup)
 
 # CodeGrind-Bot
 
