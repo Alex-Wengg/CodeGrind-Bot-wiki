@@ -15,6 +15,7 @@ Get ready for an epic coding showdown with the CodeGrind Bot! Compare daily, wee
 
 - discord.py
 - [LeetCode API](https://leetcode.com/graphql)
+- mongodb
 
 \*_Not affiliated with LeetCode. LeetCode API is only used as a tool for this bot._
 
